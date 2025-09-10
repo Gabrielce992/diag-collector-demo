@@ -48,7 +48,7 @@ Su ejecución genera un **reporte centralizado (`diag_total.txt`)** junto con re
 
 ## 🎥 Demo
 
-🔗 Aquí irá un **GIF demostrativo** mostrando la ejecución de `DiagCollector.bat` y la generación de reportes.  
+🔗 **GIF demostrativo** mostrando la ejecución de `DiagCollector.bat` y la generación de reportes.  
 
 ![Demo en ejecución](demoscript.gif)  
 
