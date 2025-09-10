@@ -1,4 +1,4 @@
-# 🛠️ Diag Collector – Herramienta de Diagnóstico Total y Soporte Técnico (Windows 10)
+# 🛠️ Diag Collector – Herramienta de Diagnóstico Total y Soporte preventivo TI (Windows 10)
 
 **Tipo de archivo:** Script ejecutable en **Batch (.BAT)**  
 **Archivos principales del proyecto:**  
