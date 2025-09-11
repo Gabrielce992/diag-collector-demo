@@ -69,8 +69,15 @@ Su ejecución genera un **reporte centralizado (`diag_total.txt`)** junto con re
 ✅ **Funcional**: Los scripts principales (`watch_tree.bat` y `DiagCollector.bat`) están listos y probados en **Windows 10**.  
 🔒 **Privado**: Repositorio con acceso restringido por motivos de seguridad y privacidad de datos.  
 
----``
+## 📂 Releases
 
-## 📬 Contacto``
-📧 gabrielce992@gmail.com
+📦 Se publicarán versiones en la pestaña **Releases**, empaquetadas en un **archivo comprimido con contraseña**.  
+🔑 **Sin la contraseña no será posible acceder al contenido.**  
 
+El acceso al código y a los binarios queda bajo **permiso previo**.  
+
+---
+
+## 📬 Contacto
+
+📧 **gabrielce992@gmail.com**  
